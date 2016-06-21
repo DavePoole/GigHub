@@ -47,7 +47,7 @@ span.field-validation-error {
 }
 
 .dropdown-menu {
-    box-shadow: null;
+    box-shadow: none;
     -webkit-box-shadow: none;
 }
 
